@@ -6,6 +6,6 @@ curl -X POST \
   http://localhost:3000/api/clip-markers \
   -H "Content-Type: application/json" \
   -d '{
-    "filePath": "./IMG_7362.vtt"
+    "filePath": "./fixtures/IMG_7362.vtt"
   }'
 ```
